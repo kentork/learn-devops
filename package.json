@@ -34,6 +34,7 @@
     "version": "3.7.1"
   },
   "devDependencies": {
+    "hexo-cli": "^1.1.0",
     "surge": "^0.20.1"
   }
 }
